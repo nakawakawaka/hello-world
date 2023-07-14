@@ -1,8 +1,8 @@
 # hello-world
 
-Este repositório é um exercicido de como utilizar os primeiro comandos git
-git clone endereco-do-repositório
-git add .
-git status
-git commit -m "comentario"
-git push
+<p>Este repositório é um exercicido de como utilizar os primeiro comandos git</p>
+<p>git clone endereco-do-repositório</p>
+<p>git add .</p>
+<p>git status</p>
+<p>git commit -m "comentario"</p>
+<p>git push</p>
